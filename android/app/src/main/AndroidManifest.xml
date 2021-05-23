@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.codemagic.kalgiapp.my_first_app">
+    package="io.codemagic.kalgiapp">
    <application
         android:label="my_first_app"
         android:icon="@mipmap/ic_launcher">
