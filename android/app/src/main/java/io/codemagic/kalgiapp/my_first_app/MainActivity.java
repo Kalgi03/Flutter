@@ -1,4 +1,4 @@
-package io.codemagic.kalgiapp.my_first_app;
+package io.codemagic.kalgiapp;
 
 import io.flutter.embedding.android.FlutterActivity;
 
