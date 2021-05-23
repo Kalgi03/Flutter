@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877209898364",
+    "project_id": "my-first-app-2c9d1",
+    "storage_bucket": "my-first-app-2c9d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877209898364:android:5f49cdd839ea8a5bece8f9",
+        "android_client_info": {
+          "package_name": "io.codemagic.kalgiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877209898364-v3k7vq1tdn2lue2o39ft3c5uoietqte1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlPn9hL6W8bru2i_2sJT-mvo23cUZjRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877209898364-v3k7vq1tdn2lue2o39ft3c5uoietqte1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
